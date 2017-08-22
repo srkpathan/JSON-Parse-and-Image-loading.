@@ -1,0 +1,15 @@
+PODS:
+  - ImageLoader (0.12.2)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - ImageLoader
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  ImageLoader: f461c9641350d0b8df39c2d3785b263f15cd63c2
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 8520bfea590661ce87305699fc5d2506aa1cc796
+
+COCOAPODS: 1.2.1
